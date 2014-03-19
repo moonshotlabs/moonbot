@@ -12,13 +12,11 @@
   "clojure.coffee",
   "cloudapp.coffee",
   "countdown.coffee",
-  "darksky.coffee",
   "dealwithit.coffee",
   "devexcuse.coffee",
   "dnsimple.coffee",
   "doer_of_deeds.coffee",
   "dribbble.coffee",
-  "eval.coffee",
   "fortune.coffee",
   "fuck_yeah_nouns.coffee",
   "futurama.coffee",
@@ -32,6 +30,7 @@
   "karma.coffee",
   "mindkiller.coffee",
   "redis-brain.coffee", 
+  "ruby.coffee",
   "remind.coffee",
   "rotten.coffee",
   "shipit.coffee", 
@@ -41,4 +40,5 @@
   "thanks-obama.coffee",
   "weather.coffee",
   "wikipedia.coffee"
+
 ]
